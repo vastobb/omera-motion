@@ -12,8 +12,6 @@ android {
         targetSdk 34
         versionCode 1
         versionName '1.0.0'
-        // Keep the WebView debuggable so the bundled editor can be inspected.
-        debuggable true
     }
 
     buildTypes {
